@@ -1,0 +1,43 @@
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 50% 5% 5% 5%;
+    
+}
+
+.icon {
+    color: #7274ef;
+    margin-bottom: 1.2rem;
+}
+
+.icon:hover {
+    color: #00025e;
+}
+
+h1 {  
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 3rem;  
+    line-height: 1.5;  
+    font-weight: 900;
+    color: rgb(2, 2, 107);
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: bold;
+    color: rgb(2, 2, 107);
+}
+
+p {
+    color: #8f8f8f;
+}

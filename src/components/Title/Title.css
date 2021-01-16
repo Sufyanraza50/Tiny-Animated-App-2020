@@ -1,0 +1,14 @@
+.title-image {
+    width: 60%;
+    position: absolute;
+    right: 30%;
+}
+
+.title-line {
+    font-size: 30px;
+    font-weight: bold;
+    width: 70%;
+    position: absolute;
+    left: 30%;
+    color: rgb(2, 2, 107);
+}
